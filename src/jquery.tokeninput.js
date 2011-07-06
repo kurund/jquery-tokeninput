@@ -21,7 +21,7 @@ var DEFAULT_SETTINGS = {
     jsonContainer: null,
     method: "GET",
     contentType: "json",
-    queryParam: "q",
+    queryParam: "name",
     tokenDelimiter: ",",
     preventDuplicates: false,
     prePopulate: null,
